@@ -120,7 +120,7 @@ WD-ProjectName
 
 
 ### Deployment Link 
-https://valerieca.github.io/WD-Seatwork-4-main/
+https://valeriecmcho.github.io/WD-Seatwork-4-main/
 
 
 
