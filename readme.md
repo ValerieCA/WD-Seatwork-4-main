@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/ValerieCA/">
+  <a href="https://github.com/valeriecmcho/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/valerie.jpg" width="130" height="100">
   </a>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=ValerieCA/WD-Seatwork-4-main)
+![](https://visit-counter.vercel.app/counter.png?page=valeriecmcho/WD-Seatwork-4-main)
 
 ---
 
